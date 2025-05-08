@@ -4,7 +4,7 @@ twitter: '@omron_sinicx'
 title: 'SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes'
 conference: ICRA2025
 resources:
-  paper: 
+  paper: https://arxiv.org/abs/2505.04162
   poster:
   code: 
   video: https://youtu.be/Cf0wMz6eIsM
@@ -58,12 +58,20 @@ meta: null
   #- '* work done as an intern at OMRON SINIC X.'
 bibtex: >
 
+  # arXiv version
+  
+  @article{takahashi2025scuhand,
+      title={SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes}, 
+      author={Takahashi, Tomoya and Beltran-Hernandez, Cristian C. and Kuroda, Yuki and Tanaka, Kazutoshi and Hamaya, Masashi and  Ushiku, Yoshitaka},
+      year={2025},
+      url={https://arxiv.org/abs/2505.04162}, 
+}
 
   # ICRA version
   
-  @inproceedings{takahashi2025scu,
+  @inproceedings{takahashi2025scuhand,
     title={SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes},
-    author={Tomoya, Takahashi and Cristian, C. Beltran-Hernandez and Yuki, Kuroda and Kazutoshi, Tanaka and Masashi, Hamaya and Yoshitaka, Ushiku},
+    author={Takahashi, Tomoya and Beltran-Hernandez, Cristian C. and Kuroda, Yuki and Tanaka, Kazutoshi and Hamaya, Masashi and  Ushiku, Yoshitaka},
     journal={2025 IEEE international conference on robotics and automation (ICRA)},
     year={2025}
   }
