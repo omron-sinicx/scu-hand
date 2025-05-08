@@ -63,9 +63,9 @@ bibtex: >
   @article{takahashi2025scuhand,
       title={SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes}, 
       author={Takahashi, Tomoya and Beltran-Hernandez, Cristian C. and Kuroda, Yuki and Tanaka, Kazutoshi and Hamaya, Masashi and  Ushiku, Yoshitaka},
-      year={2025},
-      url={https://arxiv.org/abs/2505.04162}, 
-}
+      journal={arXiv preprint arXiv:2505.04162},
+      year={2025}
+  }
 
   # ICRA version
   
