@@ -22,6 +22,7 @@ authors:
     affiliation: [1]
     url: 
     position: Project Researcher
+    
   - name: Cristian C. Beltran-Hernandez
     affiliation: [1]
     position: Senior Researcher
@@ -72,7 +73,7 @@ header:
     sinic_curve.png
     #  bg_image: https://github.com/omron-sinicx/swarm-body/raw/main/images/teaser.jpg
 
-teaser: teaser.png
+teaser: concept.png
 overview: |
   Automating small-scale experiments in materialsscience presents challenges due to the heterogeneous natureof experimental setups. This study introduces the SCU-Hand(Soft Conical Universal Robot Hand), a novel end-effectordesigned to automate the task of scooping powdered samplesfrom various container sizes using a robotic arm. The SCU-Hand employs a flexible, conical structure that adapts to dif-ferent container geometries through deformation, maintainingconsistent contact without complex force sensing or machinelearning-based control methods. Its reconfigurable mechanismallows for size adjustment, enabling efficient scooping fromdiverse container types. By combining soft robotics principleswith a sheet-morphing design, our end-effector achieves highflexibility while retaining the necessary stiffness for effectivepowder manipulation. We detail the design principles, fabri-cation process, and experimental validation of the SCU-Hand.Experimental validation showed that the scooping capacity isabout 20% higher than that of a commercial tool, with ascooping performance of more than 95% for containers ofsizes between 67 mm to 110 mm. This research contributesto laboratory automation by offering a cost-effective, easilyimplementable solution for automating tasks such as materialssynthesis and characterization processes.
 
